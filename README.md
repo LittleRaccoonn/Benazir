@@ -1,5 +1,5 @@
 Hi, I'm Benzir 👋
-Junior 
+Junior mainly java developper. Im turning 18 years old this year. Im student in alatoo college. In general worked with java. But after i tryed to work with MySql i started being interested in working with data
 
 <p align='center'>
    📫 How to reach me: <a href='mailto:benazir.bektenova@alatoo.edu.kg'>benazir.bektenova@alatoo.edu.kg</a>
@@ -8,7 +8,7 @@ Junior
 
 
 ## 🛠 Technical Stack
-*   Java/JavaScrypt languages
+*   Java/JavaScrypt/dart/react languages
 *   MySQL
 *   Spring Framework, Spring Boot,  Spring Data Jpa and so on...
 *   GitHub
